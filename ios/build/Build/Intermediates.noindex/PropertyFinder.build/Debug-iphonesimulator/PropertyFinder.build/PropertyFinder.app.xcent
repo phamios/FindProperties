@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>CCF2KCPD8U.org.reactjs.native.example.PropertyFinder</string>
+	<string>S7A2944694.org.reactjs.native.example.PropertyFinder</string>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>CCF2KCPD8U.org.reactjs.native.example.PropertyFinder</string>
+		<string>S7A2944694.org.reactjs.native.example.PropertyFinder</string>
 	</array>
 </dict>
 </plist>

@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		zinfsur8DAUxeOrQAeRi4JacbAw=
+		jL4mHOkb7KNEujoiGiKvOboaXRs=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		i29jaDcNU3Z1tBA/hF0KxVVv4tE=
+		OdmFYob30S9l9a+jcYcN07t28P0=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -207,7 +207,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bj5AR7HbiD0MFMl9S0ETXcmwSXc=
+		1kiN5VqvguAUEPrx9O5x7/0mi/4=
+		</data>
+		<key>LaunchImage-700-568h@2x.png</key>
+		<data>
+		jUzAVDZErJq8r4xRQMYF5Kc4BgE=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -240,22 +244,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zinfsur8DAUxeOrQAeRi4JacbAw=
+			jL4mHOkb7KNEujoiGiKvOboaXRs=
 			</data>
 			<key>hash2</key>
 			<data>
-			TxYffehGDkkMMTxMHkPrUkh0BW/0FdLTMkTjwzk359I=
+			FGI6alS4L/U31hk6RCeXOCukghEX1y8FrRKq+PcWazs=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			i29jaDcNU3Z1tBA/hF0KxVVv4tE=
+			OdmFYob30S9l9a+jcYcN07t28P0=
 			</data>
 			<key>hash2</key>
 			<data>
-			K+d85qNLhES5xetYfahIyig+m1ye/z0uHkyQ/6YQZ+Y=
+			Ul68Z3RL6v3IkuybOv77Wp2Jhy7Rkh5ySiqzwU60cOM=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -780,6 +784,17 @@
 			<key>hash2</key>
 			<data>
 			pdgABt46mNG+DAW8NzprEAuv+un0qUW4r4xQcIHJA0M=
+			</data>
+		</dict>
+		<key>LaunchImage-700-568h@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jUzAVDZErJq8r4xRQMYF5Kc4BgE=
+			</data>
+			<key>hash2</key>
+			<data>
+			zk4M8Nt4RUdrZyscD2Fls3DuhrSZpwnGFwXIWTdHmrw=
 			</data>
 		</dict>
 		<key>PlugIns/PropertyFinderTests.xctest.dSYM/Contents/Info.plist</key>

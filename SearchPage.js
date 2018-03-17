@@ -45,7 +45,7 @@ export default class SearchPage extends Component<{}> {
     constructor(props) {
         super(props);
         this.state = {
-          searchString: 'Honda',
+          searchString: '',
           isLoading: false,
           message: '',
         };
@@ -102,7 +102,7 @@ export default class SearchPage extends Component<{}> {
 
         <View style={styles.container}>
             <Text style={styles.description}> Nhập loại xe  </Text>
-            <Text style={styles.description}> Hoặc địa điểm </Text>
+            <Text style={styles.description}> Hoặc bỏ trống </Text>
 
             <View style={styles.flowRight}>
             <TextInput
@@ -110,7 +110,7 @@ export default class SearchPage extends Component<{}> {
                 style={styles.searchInput}
                 value={this.state.searchString}
                 onChange={this._onSearchTextChanged}
-                placeholder='Bỏ trống hoặc nhập loại xe hoặc địa điểm '/>
+                placeholder='Bỏ trống hoặc nhập loại xe'/>
             <Button
                 onPress={this._onSearchPressed}
                 color='#48BBEC'
